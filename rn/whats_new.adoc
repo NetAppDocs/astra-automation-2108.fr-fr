@@ -1,0 +1,62 @@
+---
+sidebar: sidebar 
+permalink: rn/whats_new.html 
+keywords:  
+summary:  
+---
+= Nouveautés de l'API REST Astra Control
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+NetApp met régulièrement à jour l'API REST Astra Control afin de vous apporter de nouvelles fonctionnalités, des améliorations et des correctifs.
+
+
+
+== 5 août 2021 (21.08)
+
+Avec cette version, il introduit un nouveau modèle de déploiement Astra et un important élargissement de l'API REST.
+
+
+
+=== Modèle de déploiement d'Astra Control Center
+
+Outre l'offre Astra Control Service proposée en tant que service de cloud public, cette version inclut également le modèle de déploiement sur site d'Astra Control Center. Vous pouvez installer Astra Control Center sur votre site pour gérer votre environnement Kubernetes local. Les deux modèles de déploiement Astra Control partagent la même API REST, avec de légères différences notées dans la documentation.
+
+
+
+=== Extension des types de ressources REST
+
+Avec l'API REST Astra Control, le nombre de ressources accessibles est considérablement étendu. Un grand nombre de ces nouvelles ressources constituent le socle de l'offre Astra Control Center sur site. Les nouvelles ressources disponibles sont : ASUP, droit, fonctionnalité, licence, définition abonnement, compartiment, cloud, cluster, cluster géré, système back-end et classe de stockage. Voir link:../endpoints/resources.html["Ressources"] pour en savoir plus.
+
+
+
+=== Terminaux supplémentaires prenant en charge un déploiement Astra
+
+Outre les ressources REST étendues, plusieurs autres terminaux d'API sont disponibles pour prendre en charge le déploiement d'Astra Control.
+
+Prise en charge d'OpenAPI:: Les noeuds finaux OpenAPI donnent accès au document JSON OpenAPI actuel et à d'autres ressources associées.
+Prise en charge d'OpenMetrics:: Les noeuds finaux OpenMetrics fournissent un accès aux mesures du compte via la ressource OpenMetrics.
+
+
+
+
+== 15 avril 2021 (21.04)
+
+Cette version comprend de nouvelles fonctionnalités et améliorations suivantes.
+
+
+
+=== Introduction de l'API REST
+
+L'API REST Astra Control est disponible avec l'offre de service Astra Control. Sa création repose sur les technologies REST et les meilleures pratiques actuelles. Il constitue le socle de l'automatisation de vos déploiements Astra et inclut plusieurs fonctionnalités et avantages :
+
+Ressources:: Quatorze types de ressources REST sont disponibles.
+Accès au jeton d'API:: L'accès à l'API REST est assuré via un jeton d'accès à l'API que vous pouvez générer à partir de l'interface utilisateur Web Astra. Le jeton API fournit un accès sécurisé à l'API.
+Prise en charge des collections:: Il existe un ensemble riche de paramètres de requête qui peuvent être utilisés pour accéder aux collections de ressources. Certaines opérations prises en charge incluent le filtrage, le tri et la pagination.
+

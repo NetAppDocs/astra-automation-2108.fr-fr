@@ -1,0 +1,71 @@
+---
+sidebar: sidebar 
+permalink: information/additional_resources.html 
+keywords:  
+summary:  
+---
+= Ressources supplémentaires
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Vous trouverez des ressources d'aide supplémentaires sur les services cloud et le support NetApp, ainsi que des informations générales sur REST et cloud.
+
+
+
+== Astra
+
+* https://docs.netapp.com/us-en/astra-control-center-2108/["Documentation Astra Control Center 2108"^]
++
+Documentation relative au logiciel Astra Control Center déployé sur le site du client.
+
+* https://docs.netapp.com/us-en/astra-control-service/["Documentation relative au service après-vente Astra Control"^]
++
+Documentation relative au logiciel Astra Control Service disponible dans le cloud public.
+
+* https://docs.netapp.com/us-en/trident/["Documentation Astra Trident"^]
++
+Documentation relative à l'orchestrateur de stockage open source Astra Trident géré par NetApp.
+
+
+
+
+
+== Ressources cloud NetApp
+
+* https://cloud.netapp.com/["Solutions cloud NetApp"^]
++
+Site central des solutions clouds NetApp.
+
+* https://services.cloud.netapp.com/redirect-to-login?startOnSignup=false["Console NetApp Cloud Central"^]
++
+Console de services NetApp Cloud Central avec connexion.
+
+* https://mysupport.netapp.com/["Support NetApp"^]
++
+Accédez aux outils de dépannage, à la documentation et à l'assistance technique.
+
+
+
+
+
+== Concepts REST et technologie cloud
+
+* Doctorat https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm["thèse"^] Par Roy Fielding
++
+Cette publication a introduit et établi le modèle de développement des applications REST.
+
+* https://auth0.com/["Auth0"^]
++
+Il s'agit du service de plateforme d'authentification et d'autorisation utilisé par le service Astra pour l'accès au Web.
+
+* https://www.rfc-editor.org/["Éditeur RFC"^]
++
+Source faisant autorité pour les normes Web et Internet, maintenue comme un ensemble de documents RFC numérotés de façon unique.
+
+

@@ -1,0 +1,8 @@
+---
+section: python
+title: À l'aide de Python
+entries:
+- title: Avant de commencer
+  url: "/python/python_before.html"
+- title: Répertorier les applications gérées
+  url: "/python/py_list_man_apps.html"
