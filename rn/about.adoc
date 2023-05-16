@@ -20,5 +20,5 @@ Consultez les pages et sites suivants pour plus d'informations sur cette version
 
 * link:../rn/whats_new.html["Nouveautés de l'API REST Astra Control"]
 * link:../endpoints/resources.html["Ressources et terminaux"]
-* https://docs.netapp.com/us-en/astra-control-center-2108/["Documentation Astra Control Center 2108"^]
+* https://["Documentation Astra Control Center 2108"^]
 
