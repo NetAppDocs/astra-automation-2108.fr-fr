@@ -28,7 +28,7 @@ Cette tâche génère un jeton API sur l'interface Web Astra. Vous devez égalem
 .Étapes
 . Connectez-vous à Astra à l'aide de vos identifiants de compte.
 +
-Accédez au site suivant pour le service Astra Control : https://["https://astra.netapp.io"^]
+Accédez au site suivant pour le service Astra Control : https://astra.netapp.io/["https://astra.netapp.io"^]
 
 . Cliquez sur l'icône figure en haut à droite de la page et sélectionnez *API Access*.
 . Cliquez sur *Generate API token* sur la page et, dans la fenêtre contextuelle, cliquez sur *Generate API token*.

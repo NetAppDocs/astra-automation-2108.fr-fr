@@ -65,7 +65,7 @@ Les méthodes HTTP ou verbes pris en charge par l'API sont présentées dans le 
 Le tableau suivant résume les en-têtes HTTP utilisés avec l'API REST Astra Control.
 
 
-NOTE: Voir https://["RFC 7232"^] et https://["RFC 7233"^] pour en savoir plus.
+NOTE: Voir https://www.rfc-editor.org/rfc/rfc7232.txt["RFC 7232"^] et https://www.rfc-editor.org/rfc/rfc7233.txt["RFC 7233"^] pour en savoir plus.
 
 [cols="30,15,55"]
 |===
